@@ -2,6 +2,7 @@ var animal = 'dog';
 
 function makeyourAnimal() {
   var animal = 'cat'
+}
 
 function myAnimal() {
   return animal
